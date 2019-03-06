@@ -9,7 +9,7 @@
     Supply: 500,000,000 HDCMN
     POW last block: 100000 
 
- -- hondaiscoinmn.conf
+-hondaiscoinmn.conf
 
     listen=1
     rpcallowip=127.0.0.1
