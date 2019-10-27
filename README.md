@@ -1,3 +1,8 @@
+NEWS! We are  swaping old Hondaiscoin Masternode project(Quark) with new  Hondaiscoin Masternode project(x11) 
+Date: from 26-10-2019 to 5-11-2019 
+New Hondaiscoin Masternode project(x11) window and linux wallet has  been release. project info can be here>> https://hondaiscoin.com/#x11
+Swap your coins now to avoid coin loss >> https://hondaiscoin.com/#HDCMN_Swap
+
     Algorithm: Quark
     Block type:   Proof-of-Work/Proof-of-Stake
     Coin name: HondaisCoinMN
